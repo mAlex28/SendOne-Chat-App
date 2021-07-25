@@ -1,4 +1,4 @@
 To test the application use:
 
-username : papadoge
+username : papadoge <br />
 password : 12345
